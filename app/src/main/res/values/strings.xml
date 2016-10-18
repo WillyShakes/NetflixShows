@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetflixShows</string>
+    <string name="luke_cage_descr">This gritty, action-packed drama follows the evolution of Luke Cage (Mike Colter), a man with super strength and unbreakable skin caused by a sabotaged experiment. After a failed relationship with fellow superhero Jessica Jones, Cage tries to rebuild a quiet life in Harlem, New York</string>
+    <string name="daredevil_descr">The first in a planned series of shows detailing the Marvel universe, "Daredevil" follows Matt Murdock, attorney by day and vigilante by night. Blinded in an accident as a child, Murdock uses his heightened senses as Daredevil to fight crime on the streets of New York after the sun goes down.</string>
+    <string name="jessica_jones_descr">This Netflix original chronicles the life of one of the darker Marvel characters, the mysterious Jessica Jones. When a tragedy puts an the end to her short-lived career as a superhero, Jessica settles in New York City and opens her own detective agency, called Alias Investigations,…</string>
+    <string name="house_of_cards_descr">U.S. Rep. Francis Underwood of South Carolina starts out as a ruthless politician seeking revenge in this Netflix original production. Promised the post of Secretary of State in exchange for his support, his efforts help to ensure the election of Garrett Walker to the presidency.</string>
+    <string name="the_get_down_descr">The multi-talented Baz Luhrmann and a team of collaborators -- Oscar-winner Catherine Martin, legendary MC Nas, Grandmaster Flash, Pulitzer-winning playwright Stephen Adly Guirgis, and hip-hop historian Nelson George -- have created a music-driven drama that documents the emergence of a new art form…</string>
+
+
+</resources>
