@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme"
         android:largeHeap="true"
         android:name=".App">
-        <activity android:name=".ui.show.TvShowsActivity">
+        <activity android:name=".features.show.TvShowsActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,4 +1,4 @@
-package com.willycode.netflixshows.ui.base;
+package com.willycode.netflixshows.base;
 
 /**
  * Created by Manuel ELO'O on 18/10/2016.

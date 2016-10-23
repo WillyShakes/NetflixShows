@@ -1,4 +1,4 @@
-package com.willycode.netflixshows.ui.show;
+package com.willycode.netflixshows.features.show;
 
 import com.willycode.netflixshows.App;
 import com.willycode.netflixshows.R;

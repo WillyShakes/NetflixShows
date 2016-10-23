@@ -1,9 +1,9 @@
-package com.willycode.netflixshows.ui.show;
+package com.willycode.netflixshows.features.show;
 
 import android.support.annotation.NonNull;
 
 import com.willycode.netflixshows.domain.entity.TvShow;
-import com.willycode.netflixshows.ui.base.Mvp;
+import com.willycode.netflixshows.base.Mvp;
 
 import java.util.List;
 
